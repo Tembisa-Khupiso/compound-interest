@@ -1,0 +1,25 @@
+body {
+    background-image: url(./img/piggy.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+}
+
+.form-control {
+    display: block;
+    padding: 10px 10px;
+    width: 94%;
+}
+
+.form-group {
+    margin: 20px 0;
+}
+
+.jumbotron {
+    padding: 50px;
+}
